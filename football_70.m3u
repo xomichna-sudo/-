@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1 group-title="🇷🇺 Россия — футбол/спорт",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 Россия — футбол/спорт",Бокс ТВ
+http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 Россия — футбол/спорт",Футбол
+http://hls127.freeott.top:8080/Football/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 Россия — футбол/спорт",Спортивный
+https://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Россия — футбол/спорт",Extreme Sports Channel
+http://46.32.176.50/extremesport/index.m3u8
+#EXTINF:-1 group-title="🌍 Футбол",FIFA+ English
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="🌍 Футбол",FIFA+ Women
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="🌍 Футбол",CAF TV
+https://ythls.armelin.one/channel/UCr5K057x3mHroPHsNk9OiwA.m3u8
+#EXTINF:-1 group-title="🌍 Футбол",Canal 11
+https://ythls.armelin.one/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8
+#EXTINF:-1 group-title="🌍 Футбол",Canal do Inter
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 group-title="🌍 Футбол",CazéTV
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+#EXTINF:-1 group-title="🌍 Футбол",CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:-1 group-title="🌍 Футбол",Futbol Tajikistan
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 group-title="🌍 Футбол",Real Madrid TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+#EXTINF:-1 group-title="🌍 Футбол",beIN SPORTS XTRA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&serverSideAds=false
+#EXTINF:-1 group-title="🌍 Футбол",beIN SPORTS XTRA en Español
+https://lnc-bein-espanol.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="🌍 Международный спорт",Red Bull TV
+https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="🌍 Международный спорт",Motorsport.tv
+https://25dee28f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="🇪🇸 Испания — спорт",Teledeporte
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+#EXTINF:-1 group-title="🇪🇸 Испания — спорт",Esport3
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="🇫🇷 Франция — спорт",L'Équipe
+https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+#EXTINF:-1 group-title="🇬🇷 Греция — спорт",ERT Sports 1
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
+#EXTINF:-1 group-title="🇬🇷 Греция — спорт",ERT Sports 2
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:-1 group-title="🇸🇲 Сан-Марино — спорт",San Marino RTV Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 group-title="🇦🇱 Албания — спорт",RTSH Sport
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇾 Беларусь — спорт",Belarus 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇮🇩 Индонезия — спорт",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 group-title="🇲🇴 Макао — спорт",TDM Sports
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="🇲🇳 Монголия — спорт",MNB Sport
+https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
+#EXTINF:-1 group-title="🇮🇷 Иран — спорт",Varzesh TV
+https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
+#EXTINF:-1 group-title="🇦🇫 Афганистан — спорт",RTA Sport
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:-1 group-title="🌍 Международный спорт",TJK TV
+https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 group-title="🇺🇸 США — спорт",Stadium
+https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸 США — спорт",SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🌍 Международный спорт",FUEL TV
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 group-title="🌍 Международный спорт",EDGESport
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🌍 Международный спорт",World of Freesports
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🌍 Международный спорт",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇪 ОАЭ — спорт",Abu Dhabi Sports 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 group-title="🇦🇪 ОАЭ — спорт",Abu Dhabi Sports 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 США — спорт",ACC Digital Network
+https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playlist.m3u8
+#EXTINF:-1 group-title="🇮🇹 Италия — спорт",ACI Sport TV
+https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🌍 Международный спорт",Action Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&serverSideAds=false
+#EXTINF:-1 group-title="🇧🇯 Бенин — спорт",ADO TV
+https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 США — спорт",Adventure Sports TV
+https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
+#EXTINF:-1 group-title="🇲🇽 Мексика — спорт",Afizzionados
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="🇳🇬 Нигерия — спорт",AfroSport Nigeria
+https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
+#EXTINF:-1 group-title="🇮🇷 Иран — спорт",Aio Sport 1
+https://live.aionet.ir/hls/aiosport/aiosport.m3u8
+#EXTINF:-1 group-title="🇮🇷 Иран — спорт",Aio Sport 2
+https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
+#EXTINF:-1 group-title="🇨🇾 Кипр — спорт",Alfa Sport
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 group-title="🇧🇷 Бразилия — спорт",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸 США — спорт",Amateur Sports Network
+https://hls.airy.tv/stream/resolution/1200/720x404/57/airy.m3u8
+#EXTINF:-1 group-title="🇷🇴 Румыния — спорт",AntenaSport
+https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+#EXTINF:-1 group-title="🇲🇦 Марокко — спорт",Arryadia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 Турция — спорт",A Spor
+https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+#EXTINF:-1 group-title="🇸🇪 Швеция — спорт",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1 group-title="🇸🇻 Сальвадор — спорт",Awapa Sports TV
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+#EXTINF:-1 group-title="🇧🇬 Болгария — спорт",B1B Box
+https://e105-ts.cdn.bg/b1b/fls/b1btv.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇭 Бахрейн — спорт",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="🇧🇭 Бахрейн — спорт",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸 США — спорт",BEK TV Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌍 Другие виды спорта",Billiards+
+https://lte.wiseplayout.com/WiseM3U8_18/master.m3u8
+#EXTINF:-1 group-title="🌍 Другие виды спорта",Billiard TV
+https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸 США — спорт",CBS Sports HQ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&serverSideAds=false
+#EXTINF:-1 group-title="🇸🇦 Саудовская Аравия — спорт",Channel 24 Sports
+https://ythls.armelin.one/channel/UCGnTP2NwS6ZJwmXBTsS2w-w.m3u8
+#EXTINF:-1 group-title="🇲🇽 Мексика — спорт",Claro Sports
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8
+#EXTINF:-1 group-title="🇨🇱 Чили — спорт",Claro Sports Chile
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8
+#EXTINF:-1 group-title="🇦🇷 Аргентина — спорт",CnAr Deportes
+https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇴 Доминикана — спорт",Colimdo TV
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 group-title="🌍 Единоборства",Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 group-title="🇵🇪 Перу — спорт",Contacto Deportivo
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 США — спорт",Cornhole TV
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/27607a86-358e-4a9f-98d9-9aa3fa3c13a6/2.m3u8
+#EXTINF:-1 group-title="🇺🇸 США — спорт",Cricket TV Gold
+https://d382r3rgbxdixq.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/a65cfa82-5804-440f-89bb-e82085655f1e/4.m3u8
